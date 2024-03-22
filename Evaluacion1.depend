@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1710645042 source:c:\users\snaid\onedrive\escritorio\trinity\trinityii\evaluacion1\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Abono.h"
+	"Cuenta.h"
+	"stdlib.h"
+
+1710623527 c:\users\snaid\onedrive\escritorio\trinity\trinityii\evaluacion1\cliente.h
+	<string.h>
+
+1710623461 source:c:\users\snaid\onedrive\escritorio\trinity\trinityii\evaluacion1\cliente.cpp
+	<iostream>
+	"Cliente.h"
+
+1710623979 c:\users\snaid\onedrive\escritorio\trinity\trinityii\evaluacion1\abono.h
+	"Fecha.h"
+
+1710623087 c:\users\snaid\onedrive\escritorio\trinity\trinityii\evaluacion1\fecha.h
+
+1710624923 c:\users\snaid\onedrive\escritorio\trinity\trinityii\evaluacion1\cuenta.h
+	"Abono.h"
+	"Cliente.h"
+
+1710644986 source:c:\users\snaid\onedrive\escritorio\trinity\trinityii\evaluacion1\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1710643778 source:c:\users\snaid\onedrive\escritorio\trinity\trinityii\evaluacion1\abono.cpp
+	<iostream>
+	"Fecha.h"
+	"Abono.h"
+
+1710644903 source:c:\users\snaid\onedrive\escritorio\trinity\trinityii\evaluacion1\cuenta.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Abono.h"
+	"Cuenta.h"
+
